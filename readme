@@ -1,0 +1,35 @@
+Interactive Solar System - README
+
+Overview
+
+The Interactive Solar System is a dynamic web-based simulation of the solar system, allowing users to explore planets, moons, and orbits with interactive controls. This project is designed for educational and entertainment purposes, providing an engaging experience with smooth animations and real-time interactions.
+
+Features
+
+Canvas-based Rendering: Uses HTML5 Canvas API for smooth performance.
+
+Realistic Orbits: Simulates planets orbiting around the Sun at different speeds.
+
+Interactive Controls:
+
+Drag to rotate the view.
+
+Scroll to zoom in and out.
+
+Adjust speed and zoom using the control panel.
+
+Background Stars: Provides a realistic space ambiance.
+
+Planetary Moons: Some planets have orbiting moons for added realism.
+
+Optimized Performance: Runs smoothly on modern browsers with efficient rendering.
+
+Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+Canvas API
